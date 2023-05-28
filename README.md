@@ -28,5 +28,5 @@ Apaixonado por tecnologia e com sede de aprendizado, e com muita vontade de muda
 </div>
     
 <div>
-![Snake animation](https://github.com/Fernando-Caires-Silva/KimYoshimura/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Fernando-Caires-Silva)
     </div>
